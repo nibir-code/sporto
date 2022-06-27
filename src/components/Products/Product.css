@@ -1,0 +1,8 @@
+.product {
+     display: flex;
+}
+.product img {
+     margin-bottom: 50px;
+     padding: 50px 30px;
+     height : 350px;
+}
