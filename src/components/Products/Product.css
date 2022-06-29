@@ -1,8 +1,24 @@
 .product {
      display: flex;
+     border-bottom: 1px solid lightgrey;
+     margin-right: 5px;
 }
 .product img {
-     margin-bottom: 50px;
+     margin-bottom: 1px;
      padding: 50px 30px;
      height : 350px;
+}
+.product-name {
+     color: red;
+     font-weight: 500;
+}
+.button {
+     font-size: 15px;
+     color: rgba(235, 172, 0, 0.89);
+     background-color: rgba(15, 12, 13, 0.932);
+     height: 30px;
+     width: 150px;
+     border: 1px solid black;
+     border-radius: 5px;
+     cursor: pointer;
 }
